@@ -12,4 +12,4 @@
     每个分支项目都会由他去继承
 - 作者：Pinavia - 2025
 
-![logo](./8-Picture/Logo.png)
+![logo](./Logo.png)
