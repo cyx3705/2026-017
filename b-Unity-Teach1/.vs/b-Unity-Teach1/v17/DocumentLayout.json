@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\OneHistory\\OneHistory-Projects\\2026-017-Unity\u5B66\u4E60\\b-Unity-Teach1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8B0115-B5FE-FF32-1200-36B20DC03A40}|Assembly-CSharp.csproj|c:\\onehistory\\onehistory-projects\\2026-017-unity\u5B66\u4E60\\b-unity-teach1\\assets\\scripts\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8B0115-B5FE-FF32-1200-36B20DC03A40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\OneHistory\\OneHistory-Projects\\2026-017-Unity\u5B66\u4E60\\b-Unity-Teach1\\Assets\\Scripts\\Test.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Test.cs",
+              "ToolTip": "C:\\OneHistory\\OneHistory-Projects\\2026-017-Unity\u5B66\u4E60\\b-Unity-Teach1\\Assets\\Scripts\\Test.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T10:01:13.536Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
