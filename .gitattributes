@@ -1,0 +1,17 @@
+# LFS 规则：不到 100MB 的文件一律不走 LFS。
+# ≥100MB 的具体文件由下面的 HistoryJanus lfs 托管块逐条列出，其余行不得出现 filter=lfs。
+* text=auto
+
+Logo.png -text
+b-Picture/Game游戏窗口.png -text
+b-Picture/content1.png -text
+b-Picture/content2.png -text
+b-Picture/场景中的操作.png -text
+b-Picture/场景栏讲解.png -text
+b-Picture/工具栏.png -text
+b-Picture/工具栏讲解.png -text
+b-Picture/控制台窗口.png -text
+b-Picture/检查窗口.png -text
+b-Unity-Teach1/.vs/b-Unity-Teach1/CopilotIndices/17.14.1691.21253/CodeChunks.db -text
+b-Unity-Teach1/.vs/b-Unity-Teach1/CopilotIndices/17.14.1691.21253/SemanticSymbols.db -text
+b-Unity-Teach1/UserSettings/Search.index -text
